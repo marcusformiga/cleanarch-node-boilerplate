@@ -4,9 +4,9 @@
  */
 
 export default {
-  roots: ['<rootDir/src>'],
+  roots: ['<rootDir>/src'],
   clearMocks: true,
-  collectCoverageFrom: ['<rootDir/src/**/*.ts>'],
+  collectCoverageFrom: ['<rootDir>/src/**/*.ts'],
   coverageDirectory: "coverage",
   testEnvironment: "node",
   coverageProvider: "v8",

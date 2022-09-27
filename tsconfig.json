@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "outDir": "./dist", // onde é gerado os arqivos apos compilar
-    "module": "commomjs", // usamos o import e export e depois é transformado no modo em que os navegadores entendem
+    "module": "commonjs", // usamos o import e export e depois é transformado no modo em que os navegadores entendem
     "target": "es2019", // versao do ecmascript
     "allowJs": true // permite arquivos js
   }
